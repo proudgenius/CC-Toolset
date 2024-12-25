@@ -1,6 +1,6 @@
 ## Blendshape Range Normalize
 
-This script maps the blendshape range of a selected onject between 0 and 1.
+This script maps the blendshape range of a selected object between 0 and 1.
 
 ## CC ARkit Blendshape Rename Script
 
